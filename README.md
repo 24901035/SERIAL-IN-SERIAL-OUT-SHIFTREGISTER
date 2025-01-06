@@ -26,6 +26,8 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 **Procedure**
 
 /* write all the steps invloved */
+![Screenshot 2025-01-06 114650](https://github.com/user-attachments/assets/8d660b44-65ec-4892-bb2b-b16782cb2c7b)
+
 
 **PROGRAM**
 
@@ -34,9 +36,13 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 Developed by: RegisterNumber:
 
 */
+![Screenshot 2025-01-06 114709](https://github.com/user-attachments/assets/bb25ab5b-2fe3-4e8d-b29d-46cb6406077d)
+
 
 **RTL LOGIC FOR SISO Shift Register**
+![Screenshot 2025-01-06 114719](https://github.com/user-attachments/assets/16128b0a-dfb0-454c-8f33-9799f4e4e8f2)
 
 **TIMING DIGRAMS FOR SISO Shift Register**
+![Screenshot 2025-01-06 114734](https://github.com/user-attachments/assets/3b7aa104-c3aa-471c-a50b-34cd5813dcc4)
 
-**RESULTS**
+**RESULTS**SISO shift register using verilog and validating their functionality using their functional tables has sucessful execution of the program.
